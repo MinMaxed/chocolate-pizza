@@ -12,14 +12,15 @@ body {
 logo {
   font-family: 'Sonsie One', cursive;
 }
+
 header, footer {
   /* background-color: #525252; */
   height:260;
   width:100%;
 }
 
-p .bodyParagraph {
- margin: auto;
+div.bodyParagraph p {
+ padding: .5em;
 }
 
 nav ul {
