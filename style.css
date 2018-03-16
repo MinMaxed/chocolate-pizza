@@ -6,13 +6,18 @@ body, html {
 body {
   background-color:#ffefd5;
 }
-
+logo{
+  font-family: 'Sonsie One', cursive;
+}
 header, footer {
   /* background-color: #525252; */
   height:260;
   width:100%;
 }
 
+card2 {
+  display:inline-block;
+}
 
 nav ul {
   list-style-type: none;
