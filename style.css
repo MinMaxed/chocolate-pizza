@@ -1,0 +1,31 @@
+
+
+body {
+
+}
+
+#ingredients {
+  
+  background-image: url("lab-assets/list-bg.png");
+  margin: auto;
+  width: 899px;
+  /* height: 305px; */
+  font-family: cursive;
+}
+
+.firstcolumn {
+
+  float: left;
+  padding-left: 5%;
+}
+
+.secondcolumn {
+
+  float: right;
+  padding-right: 5%;
+
+}
+
+.strikethrough:checked + label{
+  text-decoration:line-through
+}
