@@ -9,22 +9,22 @@ body, html {
 }
 
 header, footer {
-  background-color: #525252;
+  /* background-color: #525252; */
   height:260;
   width:100%;
 }
 
-
+/* 
 nav ul {
   list-style-type: none;
   margin:0;
   padding:0;
-}
+} */
 
 nav ul li {
   display:inline-block;
   list-style-type: none;
-  padding: 0 3em;
+  /* padding: 0 3em; */
   /* line-height:70px;  */
 }
 
