@@ -5,8 +5,11 @@ body, html {
 }
 body {
   background-color:#ffefd5;
+  margin: 30px auto;
+  width: 901px;
 }
-logo{
+
+logo {
   font-family: 'Sonsie One', cursive;
 }
 header, footer {
@@ -15,8 +18,8 @@ header, footer {
   width:100%;
 }
 
-card2 {
-  display:inline-block;
+p .bodyParagraph {
+ margin: auto;
 }
 
 nav ul {
@@ -33,18 +36,13 @@ nav ul li {
 
 main {
   margin: 30px auto;
-  width: 960px;
+  width: 901px;
 }
 
 .card header {
-  background:white;
+  background:gray;
   height: 2em;
   width: auto;
-}
-
-
-section .card2 {
-  width: 901px;
 }
 
 #ingredients {
