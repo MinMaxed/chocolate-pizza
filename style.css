@@ -1,7 +1,6 @@
 body, html {
   margin:0;
   padding:0;
-  /* height: 100%; */
 }
 body {
   background-color:#ffefd5;
@@ -10,11 +9,10 @@ body {
 }
 
 logo {
-  font-family: 'Sonsie One', cursive;
+  font-family: 'Sonsie One';
 }
 
 header, footer {
-  /* background-color: #525252; */
   height:260;
   width:100%;
 }
@@ -51,8 +49,7 @@ main {
   background-image: url("lab-assets/list-bg.png");
   margin: auto;
   width: 899px;
-  /* height: 305px; */
-  font-family: cursive;
+  font-family: 'Sonsio One', cursive;
 }
 
 .firstcolumn {
