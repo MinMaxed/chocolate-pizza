@@ -1,0 +1,48 @@
+body, html {
+  margin:0;
+  padding:0;
+  /* height: 100%; */
+}
+body {
+  background-color:#ffefd5;
+}
+logo{
+  font-family: 'Sonsie One', cursive;
+}
+header, footer {
+  /* background-color: #525252; */
+  height:260;
+  width:100%;
+}
+
+card2 {
+  display:inline-block;
+}
+
+nav ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+nav ul li {
+  display:inline-block;
+  list-style-type: none;
+  float: right;
+}
+
+main {
+  margin: 30px auto;
+  width: 960px;
+}
+
+.card header {
+  background:white;
+  height: 2em;
+  width: auto;
+}
+
+
+section .card2 {
+  width: 901px;
+}
