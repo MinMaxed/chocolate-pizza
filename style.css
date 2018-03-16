@@ -71,3 +71,22 @@ main {
 .strikethrough:checked + label{
   text-decoration:line-through
 }
+
+.card-vanessa {
+
+  width: 901px;
+  margin:auto;
+  border: solid 2px red
+}
+
+div.container button {
+
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+div.container p {
+
+  width: max-content;
+}
