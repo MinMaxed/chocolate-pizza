@@ -5,18 +5,22 @@ body, html {
 }
 body {
   background-color:#ffefd5;
+  margin: 30px auto;
+  width: 901px;
 }
-logo{
+
+logo {
   font-family: 'Sonsie One', cursive;
 }
+
 header, footer {
   /* background-color: #525252; */
   height:260;
   width:100%;
 }
 
-card2 {
-  display:inline-block;
+div.bodyParagraph p {
+ padding: .5em;
 }
 
 nav ul {
@@ -33,19 +37,13 @@ nav ul li {
 
 main {
   margin: 30px auto;
-  width: 960px;
-  border: solid 4px red;
+  width: 901px;
 }
 
 .card header {
-  background:white;
+  background:gray;
   height: 2em;
   width: auto;
-}
-
-
-section .card2 {
-  width: 901px;
 }
 
 #ingredients {
@@ -76,7 +74,19 @@ section .card2 {
 
 .card-vanessa {
 
-  width: 960px;
+  width: 901px;
   margin:auto;
   border: solid 2px red
+}
+
+div.container button {
+
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+div.container p {
+
+  width: max-content;
 }
